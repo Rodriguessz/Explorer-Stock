@@ -6,9 +6,7 @@ Explorer-Stock é uma aplicação desenvolvida para gerenciar produtos em um est
 
 ## Protótipo
 
-Insira uma captura de tela da sua aplicação ou um link para um protótipo online:
-
-![Captura de Tela](link-da-imagem-exemplo.png)
+![Captura de Tela](preview.png)
 
 Você pode acessar o protótipo [aqui](link-do-prototipo-online).
 
